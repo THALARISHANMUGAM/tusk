@@ -1,0 +1,5 @@
+recipe from shanmugam
+
+1.goto store
+2.and give order
+3.take order
